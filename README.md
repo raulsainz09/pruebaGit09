@@ -1,5 +1,5 @@
 # Practica de control de control de versiones de GIT:
-# COLABORADORES: Raul Sainz y Victor Lozano
+#### COLABORADORES: Raul Sainz y Victor Lozano
 
 Almacenar los proyectos de este módulo profesional.
 
